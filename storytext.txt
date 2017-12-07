@@ -1,0 +1,23 @@
+There is a mysterious tent alone in a field, emitting a soft purple glow.
+Something draws you near it, either curiosity, or some other etheral force,
+you do not know. Once you reach the ragged cloth that seems to be serving as 
+a door, your heart is racing. What could be inside you ask? Will terror await?
+Who built this thing?
+You muster all your courage, and sweep aside the cloth with a brisk pull of 
+your hand! Inside, you see a frail old woman, sitting behind a glowing orb of
+crystal. It illuminates the entire tent!
+
+There is also, a huge neon sign that reads:
+
+******************************************************************************
+*********************** WELCOME ONE AND ALL ! ! ! ****************************
+*************** TO PERL'S MAGICAL FORTUNETELLING HUT ! ! !********************
+******************************************************************************
+
+"Well" You think to yourself. "This must be Perl."
+
+Perl looks up and says, in a scratchy voice:
+"Would you like a fortune, my pretty?"
+
+
+You exit the tent, and run away from Perl!
